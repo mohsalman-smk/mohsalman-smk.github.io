@@ -1890,3 +1890,538 @@ INFO - 2021-02-18 14:16:03 --> Model "M_tags" initialized
 INFO - 2021-02-18 14:16:03 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
 INFO - 2021-02-18 14:16:03 --> Final output sent to browser
 DEBUG - 2021-02-18 14:16:03 --> Total execution time: 1.0005
+INFO - 2021-02-18 08:26:48 --> Config Class Initialized
+INFO - 2021-02-18 08:26:48 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:26:48 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:26:48 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:26:48 --> URI Class Initialized
+INFO - 2021-02-18 08:26:48 --> Router Class Initialized
+INFO - 2021-02-18 08:26:48 --> Output Class Initialized
+INFO - 2021-02-18 08:26:48 --> Security Class Initialized
+DEBUG - 2021-02-18 08:26:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:26:48 --> Input Class Initialized
+INFO - 2021-02-18 08:26:48 --> Language Class Initialized
+INFO - 2021-02-18 08:26:48 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:26:48 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:26:48 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:26:48 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:26:48 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:26:48 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:26:48 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:26:49 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:26:49 --> Model "M_users" initialized
+INFO - 2021-02-18 08:26:49 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:26:49 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:26:49 --> Controller Class Initialized
+INFO - 2021-02-18 14:26:49 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:26:49 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:26:49 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:26:49 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:26:49 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:26:49 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_links" initialized
+INFO - 2021-02-18 14:26:49 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:26:49 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:26:49 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:26:49 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:26:49 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:26:49 --> Final output sent to browser
+DEBUG - 2021-02-18 14:26:49 --> Total execution time: 1.1859
+INFO - 2021-02-18 08:28:28 --> Config Class Initialized
+INFO - 2021-02-18 08:28:29 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:28:29 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:28:29 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:28:29 --> URI Class Initialized
+INFO - 2021-02-18 08:28:29 --> Router Class Initialized
+INFO - 2021-02-18 08:28:29 --> Output Class Initialized
+INFO - 2021-02-18 08:28:29 --> Security Class Initialized
+DEBUG - 2021-02-18 08:28:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:28:29 --> Input Class Initialized
+INFO - 2021-02-18 08:28:29 --> Language Class Initialized
+INFO - 2021-02-18 08:28:29 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:28:29 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:28:29 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:28:29 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:28:29 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:28:29 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:28:29 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:28:29 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:28:29 --> Model "M_users" initialized
+INFO - 2021-02-18 08:28:29 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:28:29 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:28:29 --> Controller Class Initialized
+INFO - 2021-02-18 14:28:29 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:28:29 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:28:29 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:28:29 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:28:29 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:28:29 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_links" initialized
+INFO - 2021-02-18 14:28:29 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:28:29 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:28:29 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:28:29 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:28:30 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:28:30 --> Final output sent to browser
+DEBUG - 2021-02-18 14:28:30 --> Total execution time: 1.0602
+INFO - 2021-02-18 08:28:53 --> Config Class Initialized
+INFO - 2021-02-18 08:28:53 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:28:53 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:28:53 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:28:53 --> URI Class Initialized
+INFO - 2021-02-18 08:28:53 --> Router Class Initialized
+INFO - 2021-02-18 08:28:53 --> Output Class Initialized
+INFO - 2021-02-18 08:28:53 --> Security Class Initialized
+DEBUG - 2021-02-18 08:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:28:53 --> Input Class Initialized
+INFO - 2021-02-18 08:28:53 --> Language Class Initialized
+INFO - 2021-02-18 08:28:53 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:28:53 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:28:53 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:28:53 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:28:53 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:28:53 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:28:53 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:28:53 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:28:53 --> Model "M_users" initialized
+INFO - 2021-02-18 08:28:53 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:28:53 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:28:53 --> Controller Class Initialized
+INFO - 2021-02-18 14:28:53 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:28:53 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:28:53 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:28:53 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:28:53 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:28:54 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:28:54 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:28:54 --> Model "M_links" initialized
+INFO - 2021-02-18 14:28:54 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:28:54 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:28:54 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:28:54 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:28:54 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:28:54 --> Final output sent to browser
+DEBUG - 2021-02-18 14:28:54 --> Total execution time: 1.0283
+INFO - 2021-02-18 08:31:42 --> Config Class Initialized
+INFO - 2021-02-18 08:31:42 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:31:42 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:31:42 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:31:42 --> URI Class Initialized
+INFO - 2021-02-18 08:31:42 --> Router Class Initialized
+INFO - 2021-02-18 08:31:42 --> Output Class Initialized
+INFO - 2021-02-18 08:31:43 --> Security Class Initialized
+DEBUG - 2021-02-18 08:31:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:31:43 --> Input Class Initialized
+INFO - 2021-02-18 08:31:43 --> Language Class Initialized
+INFO - 2021-02-18 08:31:43 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:31:43 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:31:43 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:31:43 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:31:43 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:31:43 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:31:43 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:31:43 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:31:43 --> Model "M_users" initialized
+INFO - 2021-02-18 08:31:43 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:31:43 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:31:43 --> Controller Class Initialized
+INFO - 2021-02-18 14:31:43 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:31:43 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:31:43 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:31:43 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:31:43 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:31:43 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_links" initialized
+INFO - 2021-02-18 14:31:43 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:31:43 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:31:43 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:31:43 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:31:43 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:31:43 --> Final output sent to browser
+DEBUG - 2021-02-18 14:31:43 --> Total execution time: 1.0864
+INFO - 2021-02-18 08:31:55 --> Config Class Initialized
+INFO - 2021-02-18 08:31:55 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:31:55 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:31:55 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:31:55 --> URI Class Initialized
+INFO - 2021-02-18 08:31:55 --> Router Class Initialized
+INFO - 2021-02-18 08:31:55 --> Output Class Initialized
+INFO - 2021-02-18 08:31:55 --> Security Class Initialized
+DEBUG - 2021-02-18 08:31:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:31:55 --> Input Class Initialized
+INFO - 2021-02-18 08:31:55 --> Language Class Initialized
+INFO - 2021-02-18 08:31:55 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:31:55 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:31:55 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:31:55 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:31:55 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:31:55 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:31:55 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:31:55 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:31:55 --> Model "M_users" initialized
+INFO - 2021-02-18 08:31:55 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:31:55 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:31:55 --> Controller Class Initialized
+INFO - 2021-02-18 14:31:55 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:31:55 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:31:56 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:31:56 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:31:56 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:31:56 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_links" initialized
+INFO - 2021-02-18 14:31:56 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:31:56 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:31:56 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:31:56 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:31:56 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:31:56 --> Final output sent to browser
+DEBUG - 2021-02-18 14:31:56 --> Total execution time: 1.0769
+INFO - 2021-02-18 08:32:24 --> Config Class Initialized
+INFO - 2021-02-18 08:32:24 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:32:25 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:32:25 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:32:25 --> URI Class Initialized
+INFO - 2021-02-18 08:32:25 --> Router Class Initialized
+INFO - 2021-02-18 08:32:25 --> Output Class Initialized
+INFO - 2021-02-18 08:32:25 --> Security Class Initialized
+DEBUG - 2021-02-18 08:32:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:32:25 --> Input Class Initialized
+INFO - 2021-02-18 08:32:25 --> Language Class Initialized
+INFO - 2021-02-18 08:32:25 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:32:25 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:32:25 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:32:25 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:32:25 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:32:25 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:32:25 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:32:25 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:32:25 --> Model "M_users" initialized
+INFO - 2021-02-18 08:32:25 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:32:25 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:32:25 --> Controller Class Initialized
+INFO - 2021-02-18 14:32:25 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:32:25 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:32:25 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:32:25 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:32:25 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:32:25 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_links" initialized
+INFO - 2021-02-18 14:32:25 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:32:26 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:32:26 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:32:26 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:32:26 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:32:26 --> Final output sent to browser
+DEBUG - 2021-02-18 14:32:26 --> Total execution time: 1.2861
+INFO - 2021-02-18 08:32:31 --> Config Class Initialized
+INFO - 2021-02-18 08:32:31 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:32:31 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:32:31 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:32:31 --> URI Class Initialized
+INFO - 2021-02-18 08:32:31 --> Router Class Initialized
+INFO - 2021-02-18 08:32:31 --> Output Class Initialized
+INFO - 2021-02-18 08:32:31 --> Security Class Initialized
+DEBUG - 2021-02-18 08:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:32:31 --> Input Class Initialized
+INFO - 2021-02-18 08:32:31 --> Language Class Initialized
+INFO - 2021-02-18 08:32:31 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:32:31 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:32:31 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:32:31 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:32:31 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:32:31 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:32:31 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:32:31 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:32:31 --> Model "M_users" initialized
+INFO - 2021-02-18 08:32:31 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:32:31 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:32:31 --> Controller Class Initialized
+INFO - 2021-02-18 14:32:31 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:32:31 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:32:31 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:32:32 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:32:32 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_links" initialized
+INFO - 2021-02-18 14:32:32 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:32:32 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:32:32 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/loop-posts.php
+INFO - 2021-02-18 14:32:32 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:32:32 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:32:32 --> Final output sent to browser
+DEBUG - 2021-02-18 14:32:32 --> Total execution time: 1.0469
+INFO - 2021-02-18 08:32:32 --> Config Class Initialized
+INFO - 2021-02-18 08:32:32 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:32:32 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:32:32 --> Config Class Initialized
+INFO - 2021-02-18 08:32:32 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:32:32 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:32:32 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:32:32 --> URI Class Initialized
+INFO - 2021-02-18 08:32:32 --> Router Class Initialized
+INFO - 2021-02-18 08:32:32 --> Config Class Initialized
+INFO - 2021-02-18 08:32:32 --> Hooks Class Initialized
+INFO - 2021-02-18 08:32:32 --> Output Class Initialized
+INFO - 2021-02-18 08:32:32 --> Security Class Initialized
+DEBUG - 2021-02-18 08:32:32 --> UTF-8 Support Enabled
+DEBUG - 2021-02-18 08:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:32:32 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:32:32 --> Input Class Initialized
+INFO - 2021-02-18 08:32:32 --> Language Class Initialized
+INFO - 2021-02-18 08:32:32 --> URI Class Initialized
+INFO - 2021-02-18 08:32:32 --> Router Class Initialized
+ERROR - 2021-02-18 08:32:32 --> 404 Page Not Found: Media_library/posts
+INFO - 2021-02-18 08:32:32 --> Output Class Initialized
+INFO - 2021-02-18 08:32:32 --> Security Class Initialized
+DEBUG - 2021-02-18 08:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:32:32 --> Input Class Initialized
+INFO - 2021-02-18 08:32:32 --> Language Class Initialized
+ERROR - 2021-02-18 08:32:32 --> 404 Page Not Found: Media_library/posts
+INFO - 2021-02-18 08:32:32 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:32:32 --> URI Class Initialized
+INFO - 2021-02-18 08:32:32 --> Router Class Initialized
+INFO - 2021-02-18 08:32:32 --> Output Class Initialized
+INFO - 2021-02-18 08:32:32 --> Security Class Initialized
+DEBUG - 2021-02-18 08:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:32:33 --> Input Class Initialized
+INFO - 2021-02-18 08:32:33 --> Language Class Initialized
+ERROR - 2021-02-18 08:32:33 --> 404 Page Not Found: Media_library/posts
+INFO - 2021-02-18 08:32:35 --> Config Class Initialized
+INFO - 2021-02-18 08:32:35 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:32:35 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:32:35 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:32:35 --> URI Class Initialized
+INFO - 2021-02-18 08:32:35 --> Router Class Initialized
+INFO - 2021-02-18 08:32:35 --> Output Class Initialized
+INFO - 2021-02-18 08:32:35 --> Security Class Initialized
+DEBUG - 2021-02-18 08:32:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:32:35 --> Input Class Initialized
+INFO - 2021-02-18 08:32:35 --> Language Class Initialized
+INFO - 2021-02-18 08:32:35 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:32:35 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:32:35 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:32:35 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:32:35 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:32:35 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:32:35 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:32:35 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:32:35 --> Model "M_users" initialized
+INFO - 2021-02-18 08:32:35 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:32:35 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:32:35 --> Controller Class Initialized
+INFO - 2021-02-18 14:32:35 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:32:35 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:32:35 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:32:35 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:32:35 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:32:35 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:32:35 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:32:36 --> Model "M_links" initialized
+INFO - 2021-02-18 14:32:36 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:32:36 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:32:36 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:32:36 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:32:36 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:32:36 --> Final output sent to browser
+DEBUG - 2021-02-18 14:32:36 --> Total execution time: 1.0664
+INFO - 2021-02-18 08:32:58 --> Config Class Initialized
+INFO - 2021-02-18 08:32:58 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:32:58 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:32:58 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:32:58 --> URI Class Initialized
+DEBUG - 2021-02-18 08:32:58 --> No URI present. Default controller set.
+INFO - 2021-02-18 08:32:58 --> Router Class Initialized
+INFO - 2021-02-18 08:32:58 --> Output Class Initialized
+INFO - 2021-02-18 08:32:58 --> Security Class Initialized
+DEBUG - 2021-02-18 08:32:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:32:58 --> Input Class Initialized
+INFO - 2021-02-18 08:32:58 --> Language Class Initialized
+INFO - 2021-02-18 08:32:58 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:32:58 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:32:58 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:32:58 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:32:58 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:32:58 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:32:58 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:32:58 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:32:58 --> Model "M_users" initialized
+INFO - 2021-02-18 08:32:59 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:32:59 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:32:59 --> Controller Class Initialized
+INFO - 2021-02-18 14:32:59 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:32:59 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:32:59 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_image_sliders" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_service_area" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_announcement" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_lecturers_area" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_event" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_counter_area" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_albums" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_videos" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_student_say" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_banners" initialized
+INFO - 2021-02-18 14:32:59 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/home.php
+INFO - 2021-02-18 14:32:59 --> Model "M_links" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:32:59 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:32:59 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:32:59 --> Final output sent to browser
+DEBUG - 2021-02-18 14:32:59 --> Total execution time: 1.1618
+INFO - 2021-02-18 08:33:06 --> Config Class Initialized
+INFO - 2021-02-18 08:33:06 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:33:06 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:33:06 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:33:06 --> URI Class Initialized
+INFO - 2021-02-18 08:33:06 --> Router Class Initialized
+INFO - 2021-02-18 08:33:06 --> Output Class Initialized
+INFO - 2021-02-18 08:33:06 --> Security Class Initialized
+DEBUG - 2021-02-18 08:33:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:33:06 --> Input Class Initialized
+INFO - 2021-02-18 08:33:06 --> Language Class Initialized
+INFO - 2021-02-18 08:33:06 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:33:06 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:33:06 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:33:06 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:33:06 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:33:06 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:33:06 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:33:06 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:33:06 --> Model "M_users" initialized
+INFO - 2021-02-18 08:33:06 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:33:06 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:33:06 --> Controller Class Initialized
+INFO - 2021-02-18 14:33:06 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:33:06 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:33:06 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:33:06 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:33:06 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:33:06 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:33:06 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:33:06 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:33:06 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:33:06 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:33:07 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:33:07 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:33:07 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:33:07 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:33:07 --> Model "M_links" initialized
+INFO - 2021-02-18 14:33:07 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:33:07 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:33:07 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:33:07 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:33:07 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:33:07 --> Final output sent to browser
+DEBUG - 2021-02-18 14:33:07 --> Total execution time: 1.1326
+INFO - 2021-02-18 08:40:14 --> Config Class Initialized
+INFO - 2021-02-18 08:40:14 --> Hooks Class Initialized
+DEBUG - 2021-02-18 08:40:14 --> UTF-8 Support Enabled
+INFO - 2021-02-18 08:40:14 --> Utf8 Class Initialized
+INFO - 2021-02-18 08:40:14 --> URI Class Initialized
+INFO - 2021-02-18 08:40:14 --> Router Class Initialized
+INFO - 2021-02-18 08:40:14 --> Output Class Initialized
+INFO - 2021-02-18 08:40:14 --> Security Class Initialized
+DEBUG - 2021-02-18 08:40:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-02-18 08:40:14 --> Input Class Initialized
+INFO - 2021-02-18 08:40:14 --> Language Class Initialized
+INFO - 2021-02-18 08:40:14 --> Loader Class Initialized
+DEBUG - 2021-02-18 08:40:14 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
+INFO - 2021-02-18 08:40:14 --> Helper loaded: url_helper
+INFO - 2021-02-18 08:40:14 --> Helper loaded: html_helper
+INFO - 2021-02-18 08:40:14 --> Helper loaded: z3695bssad_helper
+INFO - 2021-02-18 08:40:14 --> Helper loaded: datasource_helper
+INFO - 2021-02-18 08:40:14 --> Database Driver Class Initialized
+INFO - 2021-02-18 08:40:14 --> Session: Class initialized using 'database' driver.
+INFO - 2021-02-18 08:40:14 --> Model "M_users" initialized
+INFO - 2021-02-18 08:40:14 --> Model "M_user_privileges" initialized
+INFO - 2021-02-18 08:40:14 --> Model "M_helper" initialized
+INFO - 2021-02-18 08:40:14 --> Controller Class Initialized
+INFO - 2021-02-18 14:40:14 --> Helper loaded: text_helper
+INFO - 2021-02-18 14:40:14 --> Helper loaded: blog_helper
+INFO - 2021-02-18 14:40:14 --> Model "M_menus" initialized
+INFO - 2021-02-18 14:40:14 --> Model "M_posts" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_post_comments" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_settings" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_themes" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_form_settings" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_academic_years" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_admission_phases" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_employees" initialized
+INFO - 2021-02-18 14:40:15 --> Helper loaded: form_helper
+INFO - 2021-02-18 14:40:15 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/menu.php
+INFO - 2021-02-18 14:40:15 --> Model "M_post_categories" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_links" initialized
+INFO - 2021-02-18 14:40:15 --> Model "M_questions" initialized
+INFO - 2021-02-18 14:40:15 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/sidebar.php
+INFO - 2021-02-18 14:40:15 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/single-post.php
+INFO - 2021-02-18 14:40:15 --> Model "M_tags" initialized
+INFO - 2021-02-18 14:40:15 --> File loaded: D:\xampp\htdocs\smknj\views\themes/academics/index.php
+INFO - 2021-02-18 14:40:15 --> Final output sent to browser
+DEBUG - 2021-02-18 14:40:15 --> Total execution time: 1.2986

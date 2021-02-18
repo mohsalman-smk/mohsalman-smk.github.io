@@ -89,9 +89,8 @@
                         </script>
                         
                         <!-- ShareThis BEGIN -->
-                        <div class="sharethis-inline-share-buttons"></div>
+                        <div class="sharethis-inline-reaction-buttons"></div>
                         <!-- ShareThis END -->
-
                         <?php if ($post_comments->num_rows() > 0) { ?>
                             <div class="course-details-comments">
                                 <h3 class="sidebar-title">Komentar</h3>
