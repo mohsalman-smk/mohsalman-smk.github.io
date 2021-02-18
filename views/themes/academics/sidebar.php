@@ -16,7 +16,7 @@
          <?php } ?>
          <!-- Go to www.addthis.com/dashboard to customize your tools -->
         <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-602e06e32c2aa886"></script>
-
+        <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
          <div class="sidebar-box">
              <div class="sidebar-box-inner">
                  <h3 class="sidebar-title">Pencarian</h3>
