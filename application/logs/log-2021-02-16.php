@@ -3110,36 +3110,3 @@ INFO - 2021-02-16 09:50:13 --> Model "M_academic_years" initialized
 INFO - 2021-02-16 09:50:13 --> Model "M_admission_phases" initialized
 INFO - 2021-02-16 09:50:13 --> Model "M_employees" initialized
 INFO - 2021-02-16 09:50:13 --> Zip Compression Class Initialized
-INFO - 2021-02-16 09:50:58 --> Helper loaded: download_helper
-INFO - 2021-02-16 03:51:14 --> Config Class Initialized
-INFO - 2021-02-16 03:51:14 --> Hooks Class Initialized
-DEBUG - 2021-02-16 03:51:14 --> UTF-8 Support Enabled
-INFO - 2021-02-16 03:51:14 --> Utf8 Class Initialized
-INFO - 2021-02-16 03:51:14 --> URI Class Initialized
-INFO - 2021-02-16 03:51:14 --> Router Class Initialized
-INFO - 2021-02-16 03:51:14 --> Output Class Initialized
-INFO - 2021-02-16 03:51:14 --> Security Class Initialized
-DEBUG - 2021-02-16 03:51:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2021-02-16 03:51:14 --> Input Class Initialized
-INFO - 2021-02-16 03:51:14 --> Language Class Initialized
-INFO - 2021-02-16 03:51:14 --> Loader Class Initialized
-DEBUG - 2021-02-16 03:51:14 --> Config file loaded: D:\xampp\htdocs\smknj\application\config/webmaster.php
-INFO - 2021-02-16 03:51:14 --> Helper loaded: url_helper
-INFO - 2021-02-16 03:51:14 --> Helper loaded: html_helper
-INFO - 2021-02-16 03:51:14 --> Helper loaded: z3695bssad_helper
-INFO - 2021-02-16 03:51:14 --> Helper loaded: datasource_helper
-INFO - 2021-02-16 03:51:15 --> Database Driver Class Initialized
-INFO - 2021-02-16 03:51:15 --> Session: Class initialized using 'database' driver.
-INFO - 2021-02-16 03:51:15 --> Model "M_users" initialized
-INFO - 2021-02-16 03:51:15 --> Model "M_user_privileges" initialized
-INFO - 2021-02-16 03:51:15 --> Model "M_helper" initialized
-INFO - 2021-02-16 03:51:15 --> Controller Class Initialized
-INFO - 2021-02-16 09:51:15 --> Model "M_settings" initialized
-INFO - 2021-02-16 09:51:15 --> Model "M_themes" initialized
-INFO - 2021-02-16 09:51:15 --> Model "M_form_settings" initialized
-INFO - 2021-02-16 09:51:15 --> Model "M_academic_years" initialized
-INFO - 2021-02-16 09:51:15 --> Model "M_admission_phases" initialized
-INFO - 2021-02-16 09:51:15 --> Model "M_employees" initialized
-INFO - 2021-02-16 09:51:15 --> Database Utility Class Initialized
-INFO - 2021-02-16 09:51:15 --> Zip Compression Class Initialized
-INFO - 2021-02-16 09:51:16 --> Helper loaded: download_helper
