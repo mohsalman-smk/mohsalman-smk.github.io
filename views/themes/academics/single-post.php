@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed'); ?>
 <script src="<?= base_url('views/themes/academics/js/jquery-2.2.4.min.js'); ?>" type="text/javascript"></script>
-<script type="text/javascript">
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=602e1249289b2f0011212b9c&product=inline-share-buttons' async='async'>
     var page = 1;
     var total_pages = "<?= $total_pages; ?>";
     $(document).ready(function() {
@@ -87,6 +87,11 @@
                                 shares: ["email", "twitter", "facebook", "googleplus", "whatsapp"]
                             });
                         </script>
+                        
+                        <!-- ShareThis BEGIN -->
+                        <div class="sharethis-inline-share-buttons"></div>
+                        <!-- ShareThis END -->
+
                         <?php if ($post_comments->num_rows() > 0) { ?>
                             <div class="course-details-comments">
                                 <h3 class="sidebar-title">Komentar</h3>
